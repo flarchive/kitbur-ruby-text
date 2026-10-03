@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of kitbur/ruby-text.** Not for installation: use [Packagist](https://packagist.org/packages/kitbur/ruby-text) or the [upstream repository](https://github.com/kitbur/ruby-text).
 
-**0** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/kitbur-ruby-text/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.8 || ^2.0`
+**2** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/kitbur-ruby-text/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.8 || ^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2025-06-08 | `^1.8` | [Browse](https://github.com/flarchive/kitbur-ruby-text/tree/archive/v0.1.0) |
+| `v0.1.1` | 2025-06-10 | `^1.8 || ^2.0` | [Browse](https://github.com/flarchive/kitbur-ruby-text/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/kitbur-ruby-text.json](https://github.com/flarchive/archive-index/blob/main/packages/kitbur-ruby-text.json)
 
